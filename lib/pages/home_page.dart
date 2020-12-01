@@ -11,7 +11,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     print('build');
     return Scaffold(
-      appBar: AppBar(title: Text('Atividade Growdev'),
+      appBar: AppBar(title: Text('My First Flutter app'),
       ),
       body: Center(
         child: GestureDetector(
